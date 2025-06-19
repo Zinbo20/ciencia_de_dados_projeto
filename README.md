@@ -47,4 +47,6 @@ São utilizadas bibliotecas como `pandas`, `numpy`, `matplotlib`, `seaborn` e `s
 Execute no terminal:
 
 ```bash
-pip install -r requirements.txt
+pip install -r "requirements.txt"
+ou
+pip install "nomes da bibliotecas dentro do: requirements.txt"
